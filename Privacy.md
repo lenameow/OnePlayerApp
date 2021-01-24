@@ -14,7 +14,7 @@ We never ask for personal or private information like names, email addresses, or
 
 We do not collect, store, process, use, or perform any other actions with the data generated during our Service in any server. All data related to our Service are stored on the client's device and in personal iCloud.
 
-For users that do not purchase advanced features, advertisements provided by Google Admob will be demonstrated when using this app. To improve the performance of AdMob, the Google Mobile Ads SDK may collect certain information from apps, including:
+For users that do not purchase ad-removal features, advertisements provided by Google Admob will be demonstrated when using this app. To improve the performance of AdMob, the Google Mobile Ads SDK may collect certain information from apps, including:
 
 * IP address, which may be used to estimate the general location of a device.
 * Non-user related crash logs, which may be used to diagnose problems and improve the SDK. Diagnostic information may also be used for advertising and analytics purposes.
