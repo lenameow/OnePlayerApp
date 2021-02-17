@@ -1,4 +1,4 @@
-### Introduction
+### OnePlayer
 
 OnePlayer is an offline player that easily plays local media files. 
 
@@ -11,3 +11,5 @@ Email: lenahudev@gmail.com
 <br>
 [Privacy Policy](https://lenameow.github.io/OnePlayerApp/Privacy)\
 [Terms & Conditions](https://lenameow.github.io/OnePlayerApp/TermsAndConditions)
+
+![App Store Badge](/assets/Download_on_the_App_Store_Badge_US-UK_blk_092917.eps)
