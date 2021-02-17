@@ -6,7 +6,7 @@ As long as you have music or videos in the Files App (whether obtained through A
 <br>
 <br>
 <p align="center">
-  <img src="/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="App Store Badge"/>
+  <img src="/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="App Store Badge"></img>
 </p>
 [![App Store Badge](/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/app/id1534553619)
 <br>
