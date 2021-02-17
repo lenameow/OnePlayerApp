@@ -8,8 +8,7 @@ As long as you have music or videos in the Files App (whether obtained through A
 [![App Store Badge alt ><](/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/app/id1534553619)
 <br>
 <br>
-[Privacy Policy](https://lenameow.github.io/OnePlayerApp/Privacy)\
-[Terms & Conditions](https://lenameow.github.io/OnePlayerApp/TermsAndConditions)
+[Privacy Policy](https://lenameow.github.io/OnePlayerApp/Privacy) [[Terms & Conditions](https://lenameow.github.io/OnePlayerApp/TermsAndConditions)]{style="float:right"}
 
 ### Feel free to write us if you have any questions or suggestions:
 
