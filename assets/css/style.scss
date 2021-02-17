@@ -39,49 +39,8 @@ $hr-border-color: #eff0f1 !default;*/
 {   
 background:url(/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg) no-repeat;
 }
-*/
-
-.btn {
-  background: url(/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg) no-repeat;
-  display: inline-block;
-  margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.7);
-  /*background-color: rgba(255, 255, 255, 0.08);*/
-  border-color: rgba(255, 255, 255, 0.2);
-  border-style: solid;
-  border-width: 1px;
-  border-radius: 0.3rem;
-  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
-
-  &:hover {
-    color: rgba(255, 255, 255, 0.8);
-    text-decoration: none;
-    background-color: rgba(255, 255, 255, 0.2);
-    border-color: rgba(255, 255, 255, 0.3);
-  }
-
-  + .btn {
-    margin-left: 1rem;
-  }
-
-  @include large {
-    padding: 0.75rem 1rem;
-  }
-
-  @include medium {
-    padding: 0.6rem 0.9rem;
-    font-size: 0.9rem;
-  }
-
-  @include small {
-    display: block;
-    width: 100%;
-    padding: 0.75rem;
-    font-size: 0.9rem;
-
-    + .btn {
-      margin-top: 1rem;
-      margin-left: 0;
-    }
-  }
-}
+*//*
+img.red:hover{
+  border-color: #66afe9;
+  box-shadow: 0 0 8px rgba(255,0,0, 0.6);
+}*/
