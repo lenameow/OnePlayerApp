@@ -12,5 +12,4 @@ Email: lenahudev@gmail.com
 [Privacy Policy](https://lenameow.github.io/OnePlayerApp/Privacy)\
 [Terms & Conditions](https://lenameow.github.io/OnePlayerApp/TermsAndConditions)
 
-![App Store Badge](/assets/Download_on_the_App_Store_Badge_US-UK_blk_092917.eps)
-<img src="/assets/Download_on_the_App_Store_Badge_US-UK_blk_092917.eps">
+![App Store Badge](Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)
