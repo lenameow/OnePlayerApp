@@ -1,3 +1,5 @@
+[< Back](index.md)  
+
 **Privacy Policy**
 
 We built the OnePlayer app as a Freemium app. The Service is provided by us and is intended for use as is.
