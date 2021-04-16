@@ -36,8 +36,10 @@ Our OnePlayer App is provided "as is," and we can't guarantee it will be safe an
 **Unsolicited Material**
 We always appreciate feedback or other suggestions, but may use them without any restrictions or obligation to compensate you for them, and are under no obligation to keep them confidential.
 
-**Changes to This Terms and Conditions**
+**Third Party Library Usage**
+We use a third party library MobileVLCKit v3.3.16.3 for decoding certain formats. The library is integrated into our project through CocoaPods. Detailed information regarding this library see [CocoaPods - MobileVLCKit](https://cocoapods.org/pods/MobileVLCKit) and [VLCKit Official Site](https://code.videolan.org/videolan/VLCKit).
 
+**Changes to This Terms and Conditions**
 We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page.
 
 These terms and conditions are effective as of 2020-01-24.
